@@ -5,7 +5,7 @@ A sample program to access git repository access using golang program.
 
 ## How to run ?
 
-1. Set the variables in 
+1. Set the variables in [main.go](main.go)
 ```
 	gitRepoURL := "https://github.com/dinumathai/go-git-repo-access.git"
 	gitRepoUserName := "repo-writer"
